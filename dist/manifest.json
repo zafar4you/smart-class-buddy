@@ -1,0 +1,21 @@
+{
+    "name": "Smart Class Buddy",
+    "short_name": "Buddy",
+    "description": "An Adaptive AI Teaching Agent for Conceptual & Exam-Based Learning",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50",
+    "icons": [
+        {
+            "src": "/assets/ustaad-buddy-avatar.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/ustaad-buddy-avatar.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
